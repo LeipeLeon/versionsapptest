@@ -1,0 +1,99 @@
+{
+  "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+  "build" : 57544,
+  "version" : 105,
+  "fonts" : [
+    "AppleColorEmoji",
+    "Arial-BoldMT",
+    "ArialMT",
+    "Carnas-Bold",
+    "KlavikaBurger-Bold"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+    "appVersion" : "51.3",
+    "build" : 57544,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 105,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.57544"
+  ],
+  "appVersion" : "51.3",
+  "pagesAndArtboards" : {
+    "647190CE-E83D-47A7-BA3A-60D825958F09" : {
+      "name" : "Station",
+      "artboards" : {
+
+      }
+    },
+    "F303EE14-09CE-404D-BC58-F60BA74CC0B4" : {
+      "name" : "StationLive",
+      "artboards" : {
+
+      }
+    },
+    "5D6EE51F-22B7-48FE-A8EF-036B6F6D180A" : {
+      "name" : "REcording",
+      "artboards" : {
+
+      }
+    },
+    "65873211-4C5E-4521-A5D9-AD0A6DDA9F35" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "AFF8FB3F-36EC-45AB-ADFC-E7FF56E56463" : {
+          "name" : "Icon\/Video\/Default"
+        },
+        "1EB47D88-1AB5-4263-8BD4-6E3CAFFEB7FA" : {
+          "name" : "Btn\/Ico"
+        },
+        "D540D06D-63CF-4429-96F8-34C7E6C9D547" : {
+          "name" : "Table\/Row"
+        },
+        "7EAA702B-51EC-44EB-93C0-AE0296EE3692" : {
+          "name" : "Table"
+        },
+        "29272132-A744-4944-BB40-C402B91B8702" : {
+          "name" : "Icon\/Audio\/Default"
+        },
+        "D12BCB16-3AA2-4A97-9951-62E04FCB8EC6" : {
+          "name" : "Icon\/Border\/Default"
+        },
+        "8EEDD3EE-58F7-431C-B819-AF059D012DDC" : {
+          "name" : "TabInfoHeader"
+        },
+        "DFAC61DF-9B7F-4A1C-A64B-F29D8792E50F" : {
+          "name" : "TabInfoHeader"
+        },
+        "75277F47-4B15-4D57-B162-FB3169904798" : {
+          "name" : "Table\/Header"
+        },
+        "0236043C-D341-4A5D-BD23-7D4ACCAF3B26" : {
+          "name" : "Icon\/Border\/Active"
+        },
+        "3C7A95D9-3B06-47FF-B0EC-522D53D0D7C0" : {
+          "name" : "StationIdentification"
+        },
+        "8DB71F11-4D3D-47DA-B70F-6234B83C8B44" : {
+          "name" : "Ico\/Star"
+        },
+        "5D01AB49-D982-4EFD-937A-D0871383EFD9" : {
+          "name" : "Icon\/Audio\/Active"
+        },
+        "60D1CBD0-4EEE-4C89-98EE-3CC1F87B9E1E" : {
+          "name" : "Icon\/Video\/Active"
+        },
+        "47919BF6-104C-439F-A2F8-3BFDA550E9DC" : {
+          "name" : "Btn\/Text"
+        }
+      }
+    }
+  }
+}
