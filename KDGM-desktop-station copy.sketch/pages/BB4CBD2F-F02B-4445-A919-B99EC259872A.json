@@ -1,0 +1,1102 @@
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 0,
+"width" : 0
+},
+"do_objectID" : "BB4CBD2F-F02B-4445-A919-B99EC259872A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"base" : -994,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"base" : -660,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "Favorites",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.invisionlabs.data" : {
+"json-files" : "[{\"path\":\"0D2FF9A1-F499-4359-898F-6D8AFE078ADA.json\",\"name\":\"favorites.json\",\"hash\":\"cbe7a5843c9199636d294de4487359fee2645397\"},{\"path\":\"B6506D9C-0AC0-4F4D-B5D9-65AC22557E34.json\",\"name\":\"favorites.json\",\"hash\":\"d0945dde78c5450d919fca2239256f7cada97dfe\"},{\"path\":\"17E39D18-2776-4593-BA86-916879E254D9.json\",\"name\":\"favorites.json\",\"hash\":\"54013a34960d327bfea3123b20c86e10de4e8ffc\"}]"
+}
+},
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : -912,
+"y" : -1103,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 1954,
+"width" : 1084
+},
+"do_objectID" : "981EE52F-603D-4B17-AA80-22945195EF8D",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Group",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 541,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 1413,
+"width" : 1084
+},
+"do_objectID" : "F427AE84-F546-4975-95DE-35B96FF514A9",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/f978eed4b0b3854a2859d3fa5940f17d07ff4fe1.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Screen Shot 2018-10-18 at 17.59.34",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 72
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 1413,
+"width" : 1084
+},
+"do_objectID" : "82D05555-2C55-4FF7-8D3E-A20A1358AD25",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/a16697cf5f20a8a8fc421057147d09256ae3c67c.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Screen Shot 2018-10-18 at 17.59.22",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"constraints" : {
+"scaleFactor" : 1,
+"model_version" : 0.1,
+"aspectRatio" : {
+"multiplier" : 1084,
+"model_version" : 0.1,
+"constant" : 1413,
+"enabled" : 1,
+"modelID" : "constraint_f1726d70-a135-4005-847e-6356db74e4ae",
+"model_class" : "ADModelConstraint"
+},
+"modelID" : "viewConstraints_7b54731a-915c-4dd8-af36-8d9a416520c6",
+"model_class" : "ADModelViewConstraints",
+"automatic" : 1
+}
+}
+}
+},
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 72
+}
+],
+"isLocked" : true,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : -838,
+"y" : -686,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 95,
+"width" : 640
+},
+"do_objectID" : "A682B261-B9C4-41A4-95BB-8D41C58EF87D",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "E83CF910-0802-4CA7-BACA-37A854C0B802",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "CD24390E-FBA2-4493-9FCC-5EEC4E323C54",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -306
+},
+"do_objectID" : "93CD47F7-48CF-41B2-8338-40BD900D7095",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "FF06C401-38D3-4554-89A3-1D25D91F7B90",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "75D3A244-4F8D-4682-B820-F5CB78BE58FB",
+"overrideName" : "12512627-AE1E-446B-9699-BBCA712F8819_symbolID",
+"_class" : "overrideValue",
+"value" : "8D2DFB0C-6D93-49EC-91F1-A9281EC39C29"
+},
+{
+"do_objectID" : "869554EB-77D9-4296-A8EF-8839B3A3D12A",
+"overrideName" : "DA1ECB66-C7C3-4DEE-8405-EE6DD2AB3C01_symbolID",
+"_class" : "overrideValue",
+"value" : "EE24A104-9772-4739-9813-6D99CC10F85E"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "C60A486C-7A8A-456C-8FAE-50590073A90D",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "AD253967-C21A-4625-A391-63A886C4E293",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : 264
+},
+"do_objectID" : "C7B5433D-E38C-41E8-B338-2D3D3F13EA25",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "5B72CDD0-ABED-4F8D-B971-17784169066F",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "0AB3F3D7-F873-4228-B1F2-454EDB0E539A",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "9CA075AB-1341-45F5-BB0B-376F532ECC50",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -496
+},
+"do_objectID" : "49548D48-A245-44A6-86AD-081EB61E3487",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "8227B41E-69DA-47CD-8FDB-4284F2B420F9",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "3C2CEBFF-B63B-4041-BD48-BB92BC2FCAA0",
+"overrideName" : "12512627-AE1E-446B-9699-BBCA712F8819_symbolID",
+"_class" : "overrideValue",
+"value" : "8D2DFB0C-6D93-49EC-91F1-A9281EC39C29"
+},
+{
+"do_objectID" : "6C36C479-4B0D-459F-A9EF-3227365734A8",
+"overrideName" : "DA1ECB66-C7C3-4DEE-8405-EE6DD2AB3C01_symbolID",
+"_class" : "overrideValue",
+"value" : "F2600935-98C6-4D35-A859-61AA1D210B4E"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "ED7BB0EA-61B2-432F-8E6F-A53E119C6604",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "91123E68-0837-4518-893B-B864341D07FF",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : 74
+},
+"do_objectID" : "AA473BB7-098F-4F5E-AFEE-D264B0319391",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "8DB597DF-838A-46C8-A63F-F254C3494BB1",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "DB33DE65-B864-43D1-B10D-5A7D3892EDED",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "624DAAA8-DD8D-4A9B-87E6-735E91DDBE01",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -116
+},
+"do_objectID" : "70A890A3-9D44-4C7F-9076-D9E46D5CB420",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "CFD11E87-F91F-4E60-B60A-1FC78FB157E9",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "98EB9512-1A6F-4933-AAA3-702834C0FF78",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "D7BD74F1-4E85-4B72-A0EC-C16ADBDA18A7",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : 454
+},
+"do_objectID" : "0B99AC55-83B5-4A5F-806C-306B2DD190E2",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "AF02F6BE-A6D7-46AB-8C88-102ED6E4684C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "F9A8F2B4-EB1C-48D0-A05A-19E4DCBED4F2",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "51BFD6A5-4546-47B1-9D83-3FC1494A9298",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -591
+},
+"do_objectID" : "BEB3D388-D808-47BC-960C-C1F9FFCDE93E",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "71B95A0E-D8EE-4D31-9DFA-C2CCDF29872C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+},
+{
+"do_objectID" : "60F7B7E6-2044-494D-B7CA-33C4994BE4BE",
+"overrideName" : "12512627-AE1E-446B-9699-BBCA712F8819_symbolID",
+"_class" : "overrideValue",
+"value" : "8D2DFB0C-6D93-49EC-91F1-A9281EC39C29"
+},
+{
+"do_objectID" : "2DBF1324-3DDF-484A-A114-5CAAB2A787EC",
+"overrideName" : "DA1ECB66-C7C3-4DEE-8405-EE6DD2AB3C01_symbolID",
+"_class" : "overrideValue",
+"value" : "61CAABB3-89B3-4F2C-AD05-7B15A259F95D"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "D9F96094-1C2B-4ED9-B1E5-76FA522D6AB1",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "E0D71C29-2812-453F-8D7B-D6FD148A03D0",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -211
+},
+"do_objectID" : "49801CF6-E3FB-42F4-88D9-E1E82DFECB68",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "9FAF1C0E-DDEA-4C7E-A5FD-F1AEAC5F3950",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "4AB56FCF-010D-42AA-A00E-B5858AF50616",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "35357BF9-E17E-45CB-B004-B7F2D8DB611C",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : 359
+},
+"do_objectID" : "76888576-7FDA-4557-8B8B-DC0AE60D75F3",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "55CEBF74-C330-41A5-A094-A836598D2C3E",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "3E08B1F5-EFF2-4A38-8E5E-FA3224CD3342",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "48B1606B-4777-4EC7-BE76-ED2FCB370A47",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -401
+},
+"do_objectID" : "245C41A1-9349-4A45-80C0-AFCB0CAEC047",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "67988684-016C-46C3-8E1D-8A482EF3FFD0",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+},
+{
+"do_objectID" : "8BFFB05A-0447-4FFF-83EA-C917D389D320",
+"overrideName" : "12512627-AE1E-446B-9699-BBCA712F8819_symbolID",
+"_class" : "overrideValue",
+"value" : "8D2DFB0C-6D93-49EC-91F1-A9281EC39C29"
+},
+{
+"do_objectID" : "9C6BF008-1868-4863-8D85-3B5042B8C5DB",
+"overrideName" : "DA1ECB66-C7C3-4DEE-8405-EE6DD2AB3C01_symbolID",
+"_class" : "overrideValue",
+"value" : "F2600935-98C6-4D35-A859-61AA1D210B4E"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "F530185E-AC16-4836-9D5A-F9CDC87A3ECD",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "157E6860-E221-44CA-8D76-7FD7655BF52F",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : 169
+},
+"do_objectID" : "5189D009-4DD4-4FEF-9A67-7C6ED3CCF10A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "3AA8FDD6-3E17-448C-9AD4-C214F8BFBAD3",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "52F2564E-4991-439E-861A-61DA4AD93DDC",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 95,
+"do_objectID" : "90D9C061-5975-478B-8A5E-74ADDC8E97CE",
+"constrainProportions" : false,
+"x" : -838,
+"width" : 640,
+"y" : -21
+},
+"do_objectID" : "E7344999-EC88-4C6F-932F-A4052F3B46FA",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "F70A3CF9-AD5D-4708-ABCA-BDFFAE4250CC",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"symbolID" : "3A12BBF9-AA0A-4981-B310-4183253204C4",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "LadderItem",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "85AD621B-8673-4CBF-A537-F7879D3A95EA",
+"overrideName" : "6399BB34-E2F3-4F6E-9F50-825B20551F02_symbolID",
+"_class" : "overrideValue",
+"value" : "BFAC9A54-2037-46E1-BE5E-8F96DDFDC9FB"
+}
+]
+}
+],
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "page",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}

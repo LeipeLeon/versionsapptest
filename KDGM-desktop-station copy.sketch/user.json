@@ -1,31 +1,35 @@
 {
-  "document" : {
-    "pageListHeight" : 137,
-    "exportableLayerSelection" : [
-      "AFD14759-6F6C-4289-8DEC-D9AF286326EC",
-      "3D24A246-CF5E-4D2E-9D7F-4CC95E50AC39",
-      "717AE83B-61C8-4E38-870F-3A2B9161DA60"
-    ],
-    "cloudShare" : null
-  },
-  "F303EE14-09CE-404D-BC58-F60BA74CC0B4" : {
-    "scrollOrigin" : "{-799, 451}",
-    "zoomValue" : 0.9008207934336526
-  },
-  "5D6EE51F-22B7-48FE-A8EF-036B6F6D180A" : {
-    "scrollOrigin" : "{-799, 451}",
-    "zoomValue" : 0.9008207934336526
-  },
-  "647190CE-E83D-47A7-BA3A-60D825958F09" : {
-    "scrollOrigin" : "{-799, 451}",
-    "zoomValue" : 0.9008207934336526
-  },
-  "F889F975-E6C1-4538-8B83-F6F73FA98785" : {
-    "scrollOrigin" : "{-675, 442}",
-    "zoomValue" : 1
-  },
-  "65873211-4C5E-4521-A5D9-AD0A6DDA9F35" : {
-    "scrollOrigin" : "{-1884, 1191}",
-    "zoomValue" : 3.002666962650947
-  }
+"5D6EE51F-22B7-48FE-A8EF-036B6F6D180A" : {
+"scrollOrigin" : "{-799, 451}",
+"zoomValue" : 0.9008207934336526
+},
+"BB4CBD2F-F02B-4445-A919-B99EC259872A" : {
+"scrollOrigin" : "{1215, 696}",
+"zoomValue" : 0.6612972716811856
+},
+"document" : {
+"pageListHeight" : 164,
+"cloudShare" : null,
+"exportableLayerSelection" : [
+"AFD14759-6F6C-4289-8DEC-D9AF286326EC",
+"3D24A246-CF5E-4D2E-9D7F-4CC95E50AC39",
+"717AE83B-61C8-4E38-870F-3A2B9161DA60"
+]
+},
+"65873211-4C5E-4521-A5D9-AD0A6DDA9F35" : {
+"scrollOrigin" : "{-1884, 1191}",
+"zoomValue" : 2.180833446413008
+},
+"F303EE14-09CE-404D-BC58-F60BA74CC0B4" : {
+"scrollOrigin" : "{-799, 451}",
+"zoomValue" : 0.9008207934336526
+},
+"F889F975-E6C1-4538-8B83-F6F73FA98785" : {
+"scrollOrigin" : "{-675, 442}",
+"zoomValue" : 1
+},
+"647190CE-E83D-47A7-BA3A-60D825958F09" : {
+"scrollOrigin" : "{-799, 451}",
+"zoomValue" : 0.9008207934336526
+}
 }

@@ -1,99 +1,139 @@
 {
-  "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
-  "build" : 57544,
-  "version" : 105,
-  "fonts" : [
-    "AppleColorEmoji",
-    "Arial-BoldMT",
-    "ArialMT",
-    "Carnas-Bold",
-    "KlavikaBurger-Bold"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
-    "appVersion" : "51.3",
-    "build" : 57544,
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 105,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.57544"
-  ],
-  "appVersion" : "51.3",
-  "pagesAndArtboards" : {
-    "647190CE-E83D-47A7-BA3A-60D825958F09" : {
-      "name" : "Station",
-      "artboards" : {
+"commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+"pagesAndArtboards" : {
+"647190CE-E83D-47A7-BA3A-60D825958F09" : {
+"name" : "Station",
+"artboards" : {
 
-      }
-    },
-    "F303EE14-09CE-404D-BC58-F60BA74CC0B4" : {
-      "name" : "StationLive",
-      "artboards" : {
+}
+},
+"F303EE14-09CE-404D-BC58-F60BA74CC0B4" : {
+"name" : "StationLive",
+"artboards" : {
 
-      }
-    },
-    "5D6EE51F-22B7-48FE-A8EF-036B6F6D180A" : {
-      "name" : "REcording",
-      "artboards" : {
+}
+},
+"5D6EE51F-22B7-48FE-A8EF-036B6F6D180A" : {
+"name" : "REcording",
+"artboards" : {
 
-      }
-    },
-    "65873211-4C5E-4521-A5D9-AD0A6DDA9F35" : {
-      "name" : "Symbols",
-      "artboards" : {
-        "AFF8FB3F-36EC-45AB-ADFC-E7FF56E56463" : {
-          "name" : "Icon\/Video\/Default"
-        },
-        "1EB47D88-1AB5-4263-8BD4-6E3CAFFEB7FA" : {
-          "name" : "Btn\/Ico"
-        },
-        "D540D06D-63CF-4429-96F8-34C7E6C9D547" : {
-          "name" : "Table\/Row"
-        },
-        "7EAA702B-51EC-44EB-93C0-AE0296EE3692" : {
-          "name" : "Table"
-        },
-        "29272132-A744-4944-BB40-C402B91B8702" : {
-          "name" : "Icon\/Audio\/Default"
-        },
-        "D12BCB16-3AA2-4A97-9951-62E04FCB8EC6" : {
-          "name" : "Icon\/Border\/Default"
-        },
-        "8EEDD3EE-58F7-431C-B819-AF059D012DDC" : {
-          "name" : "TabInfoHeader"
-        },
-        "DFAC61DF-9B7F-4A1C-A64B-F29D8792E50F" : {
-          "name" : "TabInfoHeader"
-        },
-        "75277F47-4B15-4D57-B162-FB3169904798" : {
-          "name" : "Table\/Header"
-        },
-        "0236043C-D341-4A5D-BD23-7D4ACCAF3B26" : {
-          "name" : "Icon\/Border\/Active"
-        },
-        "3C7A95D9-3B06-47FF-B0EC-522D53D0D7C0" : {
-          "name" : "StationIdentification"
-        },
-        "8DB71F11-4D3D-47DA-B70F-6234B83C8B44" : {
-          "name" : "Ico\/Star"
-        },
-        "5D01AB49-D982-4EFD-937A-D0871383EFD9" : {
-          "name" : "Icon\/Audio\/Active"
-        },
-        "60D1CBD0-4EEE-4C89-98EE-3CC1F87B9E1E" : {
-          "name" : "Icon\/Video\/Active"
-        },
-        "47919BF6-104C-439F-A2F8-3BFDA550E9DC" : {
-          "name" : "Btn\/Text"
-        }
-      }
-    }
-  }
+}
+},
+"BB4CBD2F-F02B-4445-A919-B99EC259872A" : {
+"name" : "Favorites",
+"artboards" : {
+
+}
+},
+"65873211-4C5E-4521-A5D9-AD0A6DDA9F35" : {
+"name" : "Symbols",
+"artboards" : {
+"8EEDD3EE-58F7-431C-B819-AF059D012DDC" : {
+"name" : "TabInfoHeader"
+},
+"75277F47-4B15-4D57-B162-FB3169904798" : {
+"name" : "Table\/Header"
+},
+"D540D06D-63CF-4429-96F8-34C7E6C9D547" : {
+"name" : "Table\/Row"
+},
+"0721212A-A07B-496A-BF8E-ACD825621E9D" : {
+"name" : "Assignment\/🔑"
+},
+"BBED16C2-F9DD-457C-A1E0-A95AEC160B6B" : {
+"name" : "Chuch\/Image\/Thumb1"
+},
+"729A8CC4-548A-48FA-BCA5-4332787FF296" : {
+"name" : "Assignment\/☆"
+},
+"7EAA702B-51EC-44EB-93C0-AE0296EE3692" : {
+"name" : "Table"
+},
+"AFF8FB3F-36EC-45AB-ADFC-E7FF56E56463" : {
+"name" : "Icon\/Video\/Default"
+},
+"3C7A95D9-3B06-47FF-B0EC-522D53D0D7C0" : {
+"name" : "StationIdentification"
+},
+"6EA8329F-F235-4518-BC36-58C7802C5880" : {
+"name" : "Assignment\/🔓"
+},
+"03249DD4-8856-43BE-9227-92D7531640EA" : {
+"name" : "Color\/bg\/even"
+},
+"611C0994-6325-4707-A2B1-E0D59FC8409B" : {
+"name" : "Assignment\/🔒"
+},
+"7AD11E0F-E4CB-4148-A6E8-88388954A1EA" : {
+"name" : "Color\/bg\/odd"
+},
+"47919BF6-104C-439F-A2F8-3BFDA550E9DC" : {
+"name" : "Btn\/Text"
+},
+"29272132-A744-4944-BB40-C402B91B8702" : {
+"name" : "Icon\/Audio\/Default"
+},
+"1EB47D88-1AB5-4263-8BD4-6E3CAFFEB7FA" : {
+"name" : "Btn\/Ico"
+},
+"5D01AB49-D982-4EFD-937A-D0871383EFD9" : {
+"name" : "Icon\/Audio\/Active"
+},
+"89A79362-9280-4515-B7E3-57CCB43D4E56" : {
+"name" : "Assignment\/★"
+},
+"911377CF-D374-482F-9A85-B59FCE75E6BD" : {
+"name" : "LadderItem"
+},
+"8DB71F11-4D3D-47DA-B70F-6234B83C8B44" : {
+"name" : "Ico\/Star"
+},
+"D12BCB16-3AA2-4A97-9951-62E04FCB8EC6" : {
+"name" : "Icon\/Border\/Default"
+},
+"EB5AB8F4-9503-4819-9F6D-C291B0E6E939" : {
+"name" : "Assignment\/🔐"
+},
+"103B832C-186F-400F-9C37-05DE3FC5D75F" : {
+"name" : "Chuch\/Image\/Thumb2"
+},
+"0236043C-D341-4A5D-BD23-7D4ACCAF3B26" : {
+"name" : "Icon\/Border\/Active"
+},
+"DFAC61DF-9B7F-4A1C-A64B-F29D8792E50F" : {
+"name" : "TabInfoHeader"
+},
+"60D1CBD0-4EEE-4C89-98EE-3CC1F87B9E1E" : {
+"name" : "Icon\/Video\/Active"
+}
+}
+}
+},
+"version" : 105,
+"fonts" : [
+"KlavikaBurger-Bold",
+"Arial-BoldMT",
+"ArialMT",
+"Monaco",
+"Carnas-Bold",
+"AppleColorEmoji"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 57544,
+"appVersion" : "51.3",
+"commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 105,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.57544"
+],
+"appVersion" : "51.3",
+"build" : 57544
 }

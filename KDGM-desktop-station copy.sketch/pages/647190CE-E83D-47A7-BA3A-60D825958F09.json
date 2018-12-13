@@ -1,1174 +1,1174 @@
 {
-  "isFlippedHorizontal" : false,
-  "style" : {
-    "windingRule" : 1,
-    "do_objectID" : "6A5D5914-33C9-4072-8C3F-58A7F9C8A9EC",
-    "_class" : "style",
-    "miterLimit" : 10,
-    "startMarkerType" : 0,
-    "endMarkerType" : 0
-  },
-  "rotation" : 0,
-  "frame" : {
-    "_class" : "rect",
-    "height" : 300,
-    "do_objectID" : "A9D9CA36-CB8A-4D27-B844-4DEC38463E6C",
-    "constrainProportions" : false,
-    "x" : 0,
-    "width" : 300,
-    "y" : 0
-  },
-  "do_objectID" : "647190CE-E83D-47A7-BA3A-60D825958F09",
-  "layerListExpandedType" : 0,
-  "exportOptions" : {
-    "shouldTrim" : false,
-    "do_objectID" : "5B80FCB5-A71D-4927-9E10-7995EB2B6299",
-    "includedLayerIds" : [
+"isFlippedHorizontal" : false,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "6A5D5914-33C9-4072-8C3F-58A7F9C8A9EC",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 300,
+"do_objectID" : "A9D9CA36-CB8A-4D27-B844-4DEC38463E6C",
+"constrainProportions" : false,
+"x" : 0,
+"width" : 300,
+"y" : 0
+},
+"do_objectID" : "647190CE-E83D-47A7-BA3A-60D825958F09",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-    ],
-    "_class" : "exportOptions",
-    "layerOptions" : 0,
-    "exportFormats" : [
+],
+"do_objectID" : "5B80FCB5-A71D-4927-9E10-7995EB2B6299",
+"includedLayerIds" : [
 
-    ]
-  },
-  "hasClickThrough" : true,
-  "horizontalRulerData" : {
-    "do_objectID" : "F3DCEB56-520A-438F-BCB2-99D70E382AB7",
-    "_class" : "rulerData",
-    "base" : 0,
-    "guides" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"do_objectID" : "F3DCEB56-520A-438F-BCB2-99D70E382AB7",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
 
-    ]
-  },
-  "includeInCloudUpload" : true,
-  "verticalRulerData" : {
-    "do_objectID" : "7374B153-9478-4B76-84E1-5303B3BBA383",
-    "_class" : "rulerData",
-    "base" : 0,
-    "guides" : [
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"do_objectID" : "7374B153-9478-4B76-84E1-5303B3BBA383",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
 
-    ]
-  },
-  "isFlippedVertical" : false,
-  "nameIsFixed" : true,
-  "name" : "Station",
-  "isVisible" : true,
-  "resizingType" : 0,
-  "layers" : [
-    {
-      "isFlippedHorizontal" : false,
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 1412,
-        "do_objectID" : "58D07C75-A6B7-4FE4-B7A9-95127CDF2207",
-        "constrainProportions" : false,
-        "x" : 1158,
-        "width" : 1092,
-        "y" : -476
-      },
-      "do_objectID" : "3D24A246-CF5E-4D2E-9D7F-4CC95E50AC39",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : true,
-        "do_objectID" : "D49B7449-7508-4552-B960-E1395A75696B",
-        "includedLayerIds" : [
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "Station",
+"isVisible" : true,
+"resizingType" : 0,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1412,
+"do_objectID" : "58D07C75-A6B7-4FE4-B7A9-95127CDF2207",
+"constrainProportions" : false,
+"x" : 1158,
+"width" : 1092,
+"y" : -476
+},
+"do_objectID" : "3D24A246-CF5E-4D2E-9D7F-4CC95E50AC39",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
+{
+"_class" : "exportFormat",
+"absoluteSize" : 0,
+"fileFormat" : "png",
+"namingScheme" : 0,
+"visibleScaleType" : 0,
+"name" : "",
+"scale" : 1
+}
+],
+"do_objectID" : "D49B7449-7508-4552-B960-E1395A75696B",
+"includedLayerIds" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
-          {
-            "_class" : "exportFormat",
-            "absoluteSize" : 0,
-            "fileFormat" : "png",
-            "namingScheme" : 0,
-            "visibleScaleType" : 0,
-            "name" : "",
-            "scale" : 1
-          }
-        ]
-      },
-      "hasBackgroundColor" : false,
-      "backgroundColor" : {
-        "do_objectID" : "13CE8FB4-549A-46CB-9B22-E99D39EDDEF9",
-        "red" : 1,
-        "_class" : "color",
-        "alpha" : 1,
-        "blue" : 1,
-        "green" : 1
-      },
-      "isFlippedVertical" : false,
-      "nameIsFixed" : true,
-      "name" : "KDGM-desktop-station",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : true
+},
+"hasBackgroundColor" : false,
+"backgroundColor" : {
+"do_objectID" : "13CE8FB4-549A-46CB-9B22-E99D39EDDEF9",
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "KDGM-desktop-station",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "isLocked" : true,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "slice",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "7CA7832E-8C6B-4500-B505-D10C565EFEE6",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 1412,
-        "do_objectID" : "203E8F31-5F4D-4F9A-827B-11ABAACFF087",
-        "constrainProportions" : true,
-        "x" : -27,
-        "width" : 1092,
-        "y" : -476
-      },
-      "do_objectID" : "A4B78D08-7F83-4A2C-B43B-62EBEF0F5DE6",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "920830AC-7F64-408C-8586-B470B6A9FD10",
-        "includedLayerIds" : [
+}
+}
+},
+"isLocked" : true,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "slice",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "7CA7832E-8C6B-4500-B505-D10C565EFEE6",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1412,
+"do_objectID" : "203E8F31-5F4D-4F9A-827B-11ABAACFF087",
+"constrainProportions" : true,
+"x" : -27,
+"width" : 1092,
+"y" : -476
+},
+"do_objectID" : "A4B78D08-7F83-4A2C-B43B-62EBEF0F5DE6",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "920830AC-7F64-408C-8586-B470B6A9FD10",
+"includedLayerIds" : [
 
-        ]
-      },
-      "image" : {
-        "_ref_class" : "MSImageData",
-        "_class" : "MSJSONFileReference",
-        "_ref" : "images\/2e08da1b540011a4507e9db3a33a338954b369f7.png"
-      },
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Screen Shot 2018-06-05 at 14.37.21",
-      "isVisible" : false,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
-            "constraints" : {
-              "scaleFactor" : 1,
-              "model_version" : 0.1,
-              "aspectRatio" : {
-                "constant" : 1412,
-                "model_version" : 0.1,
-                "enabled" : 1,
-                "multiplier" : 1092,
-                "modelID" : "constraint_3a7f04e2-cebc-4004-9d07-260cf46b7b27",
-                "model_class" : "ADModelConstraint"
-              },
-              "modelID" : "viewConstraints_b7f3840b-8859-4cac-b25b-a39706f2ccf8",
-              "model_class" : "ADModelViewConstraints",
-              "automatic" : 1
-            }
-          }
-        }
-      },
-      "clippingMask" : "{{0, 0}, {1, 1}}",
-      "isLocked" : false,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "fillReplacesImage" : false,
-      "_class" : "bitmap",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "intendedDPI" : 72
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "4C8D4E73-43E1-47A3-B066-2D520EBF2317",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 1412,
-        "do_objectID" : "3CF6C3DB-E49C-4645-B096-301A1FCA05EB",
-        "constrainProportions" : false,
-        "x" : 1158,
-        "width" : 1092,
-        "y" : -476
-      },
-      "do_objectID" : "FCED8866-DB38-4D56-9CB4-649856C3002A",
-      "layerListExpandedType" : 2,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "F51CE11B-A6D0-42C4-AF45-8DDF96630BF2",
-        "includedLayerIds" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/2e08da1b540011a4507e9db3a33a338954b369f7.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Screen Shot 2018-06-05 at 14.37.21",
+"isVisible" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"constraints" : {
+"scaleFactor" : 1,
+"model_version" : 0.1,
+"aspectRatio" : {
+"model_class" : "ADModelConstraint",
+"model_version" : 0.1,
+"constant" : 1412,
+"enabled" : 1,
+"multiplier" : 1092,
+"modelID" : "constraint_3a7f04e2-cebc-4004-9d07-260cf46b7b27"
+},
+"modelID" : "viewConstraints_b7f3840b-8859-4cac-b25b-a39706f2ccf8",
+"model_class" : "ADModelViewConstraints",
+"automatic" : 1
+}
+}
+}
+},
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"intendedDPI" : 72
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "4C8D4E73-43E1-47A3-B066-2D520EBF2317",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1412,
+"do_objectID" : "3CF6C3DB-E49C-4645-B096-301A1FCA05EB",
+"constrainProportions" : false,
+"x" : 1158,
+"width" : 1092,
+"y" : -476
+},
+"do_objectID" : "FCED8866-DB38-4D56-9CB4-649856C3002A",
+"layerListExpandedType" : 2,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "F51CE11B-A6D0-42C4-AF45-8DDF96630BF2",
+"includedLayerIds" : [
 
-        ]
-      },
-      "hasClickThrough" : true,
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Group",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"hasClickThrough" : true,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Group",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "layers" : [
-        {
-          "isFlippedHorizontal" : false,
-          "style" : {
-            "windingRule" : 1,
-            "do_objectID" : "63607E9A-585F-4DD4-AB2F-6698E3073ED6",
-            "_class" : "style",
-            "miterLimit" : 10,
-            "startMarkerType" : 0,
-            "endMarkerType" : 0
-          },
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 1412,
-            "do_objectID" : "A970BDAF-F86B-41FB-999E-17185F560CD5",
-            "constrainProportions" : true,
-            "x" : 0,
-            "width" : 1092,
-            "y" : 0
-          },
-          "do_objectID" : "4ADEC89C-B5F4-4EF2-9FA6-6EDE1C9E24AA",
-          "layerListExpandedType" : 0,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "F6E30886-1E7C-441E-A244-284F97B72B3E",
-            "includedLayerIds" : [
+}
+}
+},
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "63607E9A-585F-4DD4-AB2F-6698E3073ED6",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1412,
+"do_objectID" : "A970BDAF-F86B-41FB-999E-17185F560CD5",
+"constrainProportions" : true,
+"x" : 0,
+"width" : 1092,
+"y" : 0
+},
+"do_objectID" : "4ADEC89C-B5F4-4EF2-9FA6-6EDE1C9E24AA",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
+],
+"do_objectID" : "F6E30886-1E7C-441E-A244-284F97B72B3E",
+"includedLayerIds" : [
 
-            ]
-          },
-          "image" : {
-            "_ref_class" : "MSImageData",
-            "_class" : "MSJSONFileReference",
-            "_ref" : "images\/49e6af1440c44d9c0604708cab7756b269bd3abb.png"
-          },
-          "isFlippedVertical" : false,
-          "nameIsFixed" : false,
-          "name" : "Screen Shot 2018-06-05 at 14.37.19",
-          "isVisible" : true,
-          "resizingType" : 0,
-          "userInfo" : {
-            "com.animaapp.stc-sketch-plugin" : {
-              "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/49e6af1440c44d9c0604708cab7756b269bd3abb.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Screen Shot 2018-06-05 at 14.37.19",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-              }
-            }
-          },
-          "clippingMask" : "{{0, 0}, {1, 1}}",
-          "isLocked" : true,
-          "shouldBreakMaskChain" : false,
-          "isFixedToViewport" : false,
-          "fillReplacesImage" : false,
-          "_class" : "bitmap",
-          "booleanOperation" : 0,
-          "resizingConstraint" : 63,
-          "intendedDPI" : 72
-        },
-        {
-          "isFlippedHorizontal" : false,
-          "style" : {
-            "_class" : "style",
-            "borders" : [
-              {
-                "thickness" : 1,
-                "fillType" : 0,
-                "_class" : "border",
-                "isEnabled" : false,
-                "position" : 1,
-                "color" : {
-                  "red" : 0.592,
-                  "_class" : "color",
-                  "alpha" : 1,
-                  "blue" : 0.592,
-                  "green" : 0.592
-                }
-              }
-            ],
-            "do_objectID" : "24ECEA41-73E7-4D9C-A054-053ED8CE43AC",
-            "miterLimit" : 10,
-            "fills" : [
-              {
-                "_class" : "fill",
-                "color" : {
-                  "red" : 1,
-                  "_class" : "color",
-                  "alpha" : 1,
-                  "blue" : 1,
-                  "green" : 1
-                },
-                "patternTileScale" : 1,
-                "fillType" : 0,
-                "noiseIntensity" : 0,
-                "patternFillType" : 1,
-                "noiseIndex" : 0,
-                "isEnabled" : true
-              }
-            ],
-            "startMarkerType" : 0,
-            "windingRule" : 1,
-            "endMarkerType" : 0
-          },
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 701,
-            "do_objectID" : "66075D3F-1002-4405-917A-88A9FB77FD9E",
-            "constrainProportions" : false,
-            "x" : 57,
-            "width" : 672,
-            "y" : 575
-          },
-          "do_objectID" : "204414EC-B226-4C2B-A6D3-6FA9BF9E50CD",
-          "layerListExpandedType" : 1,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "FD47461E-9821-4D81-9074-CF631B118EDC",
-            "includedLayerIds" : [
+}
+}
+},
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : true,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"intendedDPI" : 72
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"color" : {
+"red" : 0.592,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.592,
+"green" : 0.592
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
+}
+],
+"do_objectID" : "24ECEA41-73E7-4D9C-A054-053ED8CE43AC",
+"endMarkerType" : 0,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"miterLimit" : 10
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 701,
+"do_objectID" : "66075D3F-1002-4405-917A-88A9FB77FD9E",
+"constrainProportions" : false,
+"x" : 57,
+"width" : 672,
+"y" : 575
+},
+"do_objectID" : "204414EC-B226-4C2B-A6D3-6FA9BF9E50CD",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"exportFormats" : [
 
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
+],
+"do_objectID" : "FD47461E-9821-4D81-9074-CF631B118EDC",
+"includedLayerIds" : [
 
-            ]
-          },
-          "hasClickThrough" : true,
-          "windingRule" : 1,
-          "isFlippedVertical" : false,
-          "nameIsFixed" : false,
-          "name" : "Rectangle 2",
-          "isVisible" : true,
-          "resizingType" : 0,
-          "userInfo" : {
-            "com.animaapp.stc-sketch-plugin" : {
-              "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"hasClickThrough" : true,
+"windingRule" : 1,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Rectangle 2",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-              }
-            }
-          },
-          "layers" : [
-            {
-              "isFlippedHorizontal" : false,
-              "hasConvertedToNewRoundCorners" : true,
-              "rotation" : 0,
-              "frame" : {
-                "_class" : "rect",
-                "height" : 701,
-                "do_objectID" : "34A48629-629C-431F-87DB-87E650417068",
-                "constrainProportions" : false,
-                "x" : 0,
-                "width" : 672,
-                "y" : 0
-              },
-              "do_objectID" : "855C1A1C-818F-4E28-A5E9-7CBD7FCF3039",
-              "layerListExpandedType" : 0,
-              "exportOptions" : {
-                "shouldTrim" : false,
-                "do_objectID" : "54946D78-A075-4A88-AA1E-0AEB362DDD77",
-                "includedLayerIds" : [
+}
+}
+},
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 701,
+"do_objectID" : "34A48629-629C-431F-87DB-87E650417068",
+"constrainProportions" : false,
+"x" : 0,
+"width" : 672,
+"y" : 0
+},
+"do_objectID" : "855C1A1C-818F-4E28-A5E9-7CBD7FCF3039",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-                ],
-                "_class" : "exportOptions",
-                "layerOptions" : 0,
-                "exportFormats" : [
+],
+"do_objectID" : "54946D78-A075-4A88-AA1E-0AEB362DDD77",
+"includedLayerIds" : [
 
-                ]
-              },
-              "edited" : false,
-              "isFlippedVertical" : false,
-              "nameIsFixed" : false,
-              "name" : "Path",
-              "isVisible" : true,
-              "resizingType" : 0,
-              "isClosed" : true,
-              "isLocked" : false,
-              "points" : [
-                {
-                  "_class" : "curvePoint",
-                  "curveMode" : 1,
-                  "hasCurveTo" : false,
-                  "curveFrom" : "{0, 0}",
-                  "point" : "{0, 0}",
-                  "cornerRadius" : 0,
-                  "curveTo" : "{0, 0}",
-                  "hasCurveFrom" : false
-                },
-                {
-                  "_class" : "curvePoint",
-                  "curveMode" : 1,
-                  "hasCurveTo" : false,
-                  "curveFrom" : "{1, 0}",
-                  "point" : "{1, 0}",
-                  "cornerRadius" : 0,
-                  "curveTo" : "{1, 0}",
-                  "hasCurveFrom" : false
-                },
-                {
-                  "_class" : "curvePoint",
-                  "curveMode" : 1,
-                  "hasCurveTo" : false,
-                  "curveFrom" : "{1, 1}",
-                  "point" : "{1, 1}",
-                  "cornerRadius" : 0,
-                  "curveTo" : "{1, 1}",
-                  "hasCurveFrom" : false
-                },
-                {
-                  "_class" : "curvePoint",
-                  "curveMode" : 1,
-                  "hasCurveTo" : false,
-                  "curveFrom" : "{0, 1}",
-                  "point" : "{0, 1}",
-                  "cornerRadius" : 0,
-                  "curveTo" : "{0, 1}",
-                  "hasCurveFrom" : false
-                }
-              ],
-              "shouldBreakMaskChain" : false,
-              "pointRadiusBehaviour" : 1,
-              "isFixedToViewport" : false,
-              "fixedRadius" : 0,
-              "_class" : "rectangle",
-              "booleanOperation" : -1,
-              "resizingConstraint" : 63
-            }
-          ],
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "isLocked" : true,
-          "shouldBreakMaskChain" : false,
-          "isFixedToViewport" : false,
-          "_class" : "shapeGroup",
-          "booleanOperation" : 0,
-          "resizingConstraint" : 63
-        }
-      ],
-      "isLocked" : true,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "group",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "style" : {
-        "_class" : "style",
-        "borders" : [
-          {
-            "thickness" : 3,
-            "fillType" : 0,
-            "_class" : "border",
-            "isEnabled" : false,
-            "position" : 1,
-            "color" : {
-              "red" : 0.9019607843137255,
-              "_class" : "color",
-              "alpha" : 1,
-              "blue" : 0.9686274509803922,
-              "green" : 0.9450980392156862
-            }
-          }
-        ],
-        "do_objectID" : "0B043D5C-EEDE-4359-AE99-8E686D416D72",
-        "miterLimit" : 10,
-        "sharedObjectID" : "A96AD898-0940-4D49-96C7-1535F93E429A",
-        "fills" : [
-          {
-            "_class" : "fill",
-            "color" : {
-              "red" : 1,
-              "_class" : "color",
-              "alpha" : 1,
-              "blue" : 1,
-              "green" : 1
-            },
-            "patternTileScale" : 1,
-            "fillType" : 0,
-            "noiseIntensity" : 0,
-            "patternFillType" : 1,
-            "noiseIndex" : 0,
-            "isEnabled" : true
-          }
-        ],
-        "startMarkerType" : 0,
-        "windingRule" : 1,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 40,
-        "do_objectID" : "E53B7F17-E17F-4C2F-BB09-A32EF26ECC01",
-        "constrainProportions" : false,
-        "x" : 2470,
-        "width" : 350,
-        "y" : -419
-      },
-      "do_objectID" : "E4137D95-8C61-4552-BFF3-6276F5FFC4DC",
-      "layerListExpandedType" : 1,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "EF50FD12-22F5-4282-B5EF-708E2B888886",
-        "includedLayerIds" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"edited" : false,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Path",
+"isVisible" : true,
+"resizingType" : 0,
+"isClosed" : true,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 0}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 0}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 1}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 1}",
+"hasCurveTo" : false
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"fixedRadius" : 0,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : true,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "shapeGroup",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+}
+],
+"isLocked" : true,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"color" : {
+"red" : 0.9019607843137255,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.9686274509803922,
+"green" : 0.9450980392156862
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 3,
+"position" : 1
+}
+],
+"do_objectID" : "0B043D5C-EEDE-4359-AE99-8E686D416D72",
+"sharedObjectID" : "A96AD898-0940-4D49-96C7-1535F93E429A",
+"endMarkerType" : 0,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"miterLimit" : 10
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"do_objectID" : "E53B7F17-E17F-4C2F-BB09-A32EF26ECC01",
+"constrainProportions" : false,
+"x" : 2470,
+"width" : 350,
+"y" : -419
+},
+"do_objectID" : "E4137D95-8C61-4552-BFF3-6276F5FFC4DC",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "EF50FD12-22F5-4282-B5EF-708E2B888886",
+"includedLayerIds" : [
 
-        ]
-      },
-      "hasClickThrough" : false,
-      "windingRule" : 1,
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Rectangle",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"hasClickThrough" : false,
+"windingRule" : 1,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Rectangle",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "layers" : [
-        {
-          "isFlippedHorizontal" : false,
-          "hasConvertedToNewRoundCorners" : true,
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 40,
-            "do_objectID" : "95660D14-599C-46E5-B28E-B8A1B7EA1A1E",
-            "constrainProportions" : false,
-            "x" : 0,
-            "width" : 350,
-            "y" : 0
-          },
-          "do_objectID" : "3FFA024E-D2EA-4542-B364-4FDFC06D5F51",
-          "layerListExpandedType" : 1,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "FE1C2757-9F41-46C0-9C05-CBE8BE5BEE36",
-            "includedLayerIds" : [
+}
+}
+},
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"do_objectID" : "95660D14-599C-46E5-B28E-B8A1B7EA1A1E",
+"constrainProportions" : false,
+"x" : 0,
+"width" : 350,
+"y" : 0
+},
+"do_objectID" : "3FFA024E-D2EA-4542-B364-4FDFC06D5F51",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"exportFormats" : [
 
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
+],
+"do_objectID" : "FE1C2757-9F41-46C0-9C05-CBE8BE5BEE36",
+"includedLayerIds" : [
 
-            ]
-          },
-          "edited" : false,
-          "isFlippedVertical" : false,
-          "nameIsFixed" : false,
-          "name" : "Path",
-          "isVisible" : true,
-          "resizingType" : 0,
-          "isClosed" : true,
-          "isLocked" : false,
-          "points" : [
-            {
-              "_class" : "curvePoint",
-              "curveMode" : 1,
-              "hasCurveTo" : false,
-              "curveFrom" : "{0, 0}",
-              "point" : "{0, 0}",
-              "cornerRadius" : 2,
-              "curveTo" : "{0, 0}",
-              "hasCurveFrom" : false
-            },
-            {
-              "_class" : "curvePoint",
-              "curveMode" : 1,
-              "hasCurveTo" : false,
-              "curveFrom" : "{1, 0}",
-              "point" : "{1, 0}",
-              "cornerRadius" : 2,
-              "curveTo" : "{1, 0}",
-              "hasCurveFrom" : false
-            },
-            {
-              "_class" : "curvePoint",
-              "curveMode" : 1,
-              "hasCurveTo" : false,
-              "curveFrom" : "{1, 1}",
-              "point" : "{1, 1}",
-              "cornerRadius" : 2,
-              "curveTo" : "{1, 1}",
-              "hasCurveFrom" : false
-            },
-            {
-              "_class" : "curvePoint",
-              "curveMode" : 1,
-              "hasCurveTo" : false,
-              "curveFrom" : "{0, 1}",
-              "point" : "{0, 1}",
-              "cornerRadius" : 2,
-              "curveTo" : "{0, 1}",
-              "hasCurveFrom" : false
-            }
-          ],
-          "shouldBreakMaskChain" : false,
-          "pointRadiusBehaviour" : 1,
-          "isFixedToViewport" : false,
-          "fixedRadius" : 2,
-          "_class" : "rectangle",
-          "booleanOperation" : -1,
-          "resizingConstraint" : 63
-        }
-      ],
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
-      "isLocked" : false,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "shapeGroup",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "E43E9DEB-A2F2-48D3-9F72-C48976F34A6C",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 365,
-        "do_objectID" : "E016B603-0307-4665-B27D-1BD91AC23A51",
-        "constrainProportions" : false,
-        "x" : 1235,
-        "width" : 640,
-        "y" : 455
-      },
-      "do_objectID" : "34F922D7-E953-4832-AE1F-67DED44C639E",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "9BD2D5C0-D35A-4199-A846-901E399A11E4",
-        "includedLayerIds" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"edited" : false,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Path",
+"isVisible" : true,
+"resizingType" : 0,
+"isClosed" : true,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveTo" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveFrom" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveTo" : false
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"fixedRadius" : 2,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "shapeGroup",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "E43E9DEB-A2F2-48D3-9F72-C48976F34A6C",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 365,
+"do_objectID" : "E016B603-0307-4665-B27D-1BD91AC23A51",
+"constrainProportions" : false,
+"x" : 1235,
+"width" : 640,
+"y" : 455
+},
+"do_objectID" : "34F922D7-E953-4832-AE1F-67DED44C639E",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "9BD2D5C0-D35A-4199-A846-901E399A11E4",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "AF835AE7-9706-4F55-9561-7120725EE7BD",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Table",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "AF835AE7-9706-4F55-9561-7120725EE7BD",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Table",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
 
-      ]
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "5081856E-9B3F-4C23-8085-2DC418F952C7",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 201,
-        "do_objectID" : "E61F2BFA-55D4-448B-A276-A7C4AF2AE816",
-        "constrainProportions" : false,
-        "x" : 1235,
-        "width" : 640,
-        "y" : 234
-      },
-      "do_objectID" : "EF158E23-A5C8-4A41-99BC-2F5947351DD7",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "F2711992-09F5-4951-9025-E534F152092C",
-        "includedLayerIds" : [
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "5081856E-9B3F-4C23-8085-2DC418F952C7",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 201,
+"do_objectID" : "E61F2BFA-55D4-448B-A276-A7C4AF2AE816",
+"constrainProportions" : false,
+"x" : 1235,
+"width" : 640,
+"y" : 234
+},
+"do_objectID" : "EF158E23-A5C8-4A41-99BC-2F5947351DD7",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "F2711992-09F5-4951-9025-E534F152092C",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "CDAFB43B-9C26-478B-890C-394115F99F54",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "TabInfoHeader",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "CDAFB43B-9C26-478B-890C-394115F99F54",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "TabInfoHeader",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
 
-      ]
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "style" : {
-        "_class" : "style",
-        "miterLimit" : 10,
-        "do_objectID" : "2290E04C-5B97-4AFD-8D2E-9DC592C0EA02",
-        "startMarkerType" : 0,
-        "windingRule" : 1,
-        "textStyle" : {
-          "do_objectID" : "F8F0ECBA-F7B9-4C2C-B9C9-A2C215603CED",
-          "_class" : "textStyle",
-          "verticalAlignment" : 1,
-          "encodedAttributes" : {
-            "MSAttributedStringFontAttribute" : {
-              "attributes" : {
-                "name" : "Carnas-Bold",
-                "size" : 22
-              },
-              "_class" : "fontDescriptor"
-            },
-            "MSAttributedStringColorAttribute" : {
-              "red" : 0.1607843137254902,
-              "_class" : "color",
-              "alpha" : 1,
-              "blue" : 0.3411764705882353,
-              "green" : 0.2509803921568627
-            },
-            "textStyleVerticalAlignmentKey" : 1,
-            "paragraphStyle" : {
-              "allowsDefaultTighteningForTruncation" : 0,
-              "_class" : "paragraphStyle",
-              "alignment" : 0
-            }
-          }
-        },
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 37,
-        "do_objectID" : "99A32685-FF79-4CDD-B89A-0F373DA73CAC",
-        "constrainProportions" : false,
-        "x" : 1235,
-        "width" : 640,
-        "y" : 102
-      },
-      "do_objectID" : "CF58D136-D384-4930-8F43-FD85A2A10549",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "4F3E78F6-7CD5-4BBF-A83E-E3F4E943BE55",
-        "includedLayerIds" : [
+]
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"endMarkerType" : 0,
+"do_objectID" : "2290E04C-5B97-4AFD-8D2E-9DC592C0EA02",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "F8F0ECBA-F7B9-4C2C-B9C9-A2C215603CED",
+"_class" : "textStyle",
+"verticalAlignment" : 1,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Carnas-Bold",
+"size" : 22
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1607843137254902,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.3411764705882353,
+"green" : 0.2509803921568627
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"miterLimit" : 10
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 37,
+"do_objectID" : "99A32685-FF79-4CDD-B89A-0F373DA73CAC",
+"constrainProportions" : false,
+"x" : 1235,
+"width" : 640,
+"y" : 102
+},
+"do_objectID" : "CF58D136-D384-4930-8F43-FD85A2A10549",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "4F3E78F6-7CD5-4BBF-A83E-E3F4E943BE55",
+"includedLayerIds" : [
 
-        ]
-      },
-      "glyphBounds" : "{{1, 5}, {626, 23}}",
-      "dontSynchroniseWithSymbol" : false,
-      "lineSpacingBehaviour" : 2,
-      "textBehaviour" : 2,
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Protestantse Gemeent",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
-            "isAutoWidth" : 0
-          }
-        }
-      },
-      "isLocked" : false,
-      "attributedString" : {
-        "string" : "Protestantse Gemeente Barendrecht - wijkgemeente Dorpskerk",
-        "_class" : "attributedString",
-        "attributes" : [
-          {
-            "length" : 58,
-            "_class" : "stringAttribute",
-            "location" : 0,
-            "attributes" : {
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Carnas-Bold",
-                  "size" : 22
-                },
-                "_class" : "fontDescriptor"
-              },
-              "MSAttributedStringColorAttribute" : {
-                "red" : 0.1607843137254902,
-                "_class" : "color",
-                "alpha" : 1,
-                "blue" : 0.3411764705882353,
-                "green" : 0.2509803921568627
-              },
-              "textStyleVerticalAlignmentKey" : 1,
-              "paragraphStyle" : {
-                "allowsDefaultTighteningForTruncation" : 0,
-                "_class" : "paragraphStyle",
-                "alignment" : 0
-              }
-            }
-          }
-        ]
-      },
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "text",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "automaticallyDrawOnUnderlyingPath" : false
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "EF615EB7-389E-4F61-B888-3F7600B45FA7",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 26,
-        "do_objectID" : "522DAA95-94D0-44F5-9481-BF3D50EB1D43",
-        "constrainProportions" : false,
-        "x" : 1748,
-        "width" : 127,
-        "y" : 154
-      },
-      "do_objectID" : "2EA5B23A-CB2A-4EDB-AE87-8DA954EC36DA",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "5377B0CD-F250-409E-A7F7-2D1BF3D5BA5B",
-        "includedLayerIds" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"glyphBounds" : "{{1, 5}, {626, 23}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Protestantse Gemeent",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"string" : "Protestantse Gemeente Barendrecht - wijkgemeente Dorpskerk",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 58,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Carnas-Bold",
+"size" : 22
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1607843137254902,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.3411764705882353,
+"green" : 0.2509803921568627
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "EF615EB7-389E-4F61-B888-3F7600B45FA7",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 26,
+"do_objectID" : "522DAA95-94D0-44F5-9481-BF3D50EB1D43",
+"constrainProportions" : false,
+"x" : 1748,
+"width" : 127,
+"y" : 154
+},
+"do_objectID" : "2EA5B23A-CB2A-4EDB-AE87-8DA954EC36DA",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "5377B0CD-F250-409E-A7F7-2D1BF3D5BA5B",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "E7A80EC0-605E-4B02-905E-E2DAABE6C3DF",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Btn\/Ico",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "E7A80EC0-605E-4B02-905E-E2DAABE6C3DF",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Btn\/Ico",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
-        {
-          "do_objectID" : "DC640902-0B89-401F-A26C-C69569448A58",
-          "overrideName" : "B7E117C4-6C55-4266-A5E4-D9003DA1FC79_stringValue",
-          "_class" : "overrideValue",
-          "value" : "Maak favoriet"
-        }
-      ]
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "9F77EBD9-04E5-44A4-9B73-13AE20E5518C",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 20,
-        "do_objectID" : "9B31F404-A9A8-4359-AD0F-2FF6E32FCE95",
-        "constrainProportions" : true,
-        "x" : 1719,
-        "width" : 155.5555555555555,
-        "y" : 194
-      },
-      "do_objectID" : "55D2E922-6F93-4F4B-9064-C359CBF456AD",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "3888A0E7-E056-45CC-8119-EE1F8B50E0B6",
-        "includedLayerIds" : [
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
+{
+"do_objectID" : "DC640902-0B89-401F-A26C-C69569448A58",
+"overrideName" : "B7E117C4-6C55-4266-A5E4-D9003DA1FC79_stringValue",
+"_class" : "overrideValue",
+"value" : "Maak favoriet"
+}
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "9F77EBD9-04E5-44A4-9B73-13AE20E5518C",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 20,
+"do_objectID" : "9B31F404-A9A8-4359-AD0F-2FF6E32FCE95",
+"constrainProportions" : true,
+"x" : 1719,
+"width" : 155.5555555555555,
+"y" : 194
+},
+"do_objectID" : "55D2E922-6F93-4F4B-9064-C359CBF456AD",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "3888A0E7-E056-45CC-8119-EE1F8B50E0B6",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "215B2C4E-010A-45CD-8DAE-3B348B0D58BD",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "icons\/share",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
-            "constraints" : {
-              "scaleFactor" : 1,
-              "model_version" : 0.1,
-              "aspectRatio" : {
-                "modelID" : "constraint_86bb358a-3c8c-4a42-97e4-97a2b53080f4",
-                "enabled" : 1,
-                "multiplier" : 155.5556,
-                "model_class" : "ADModelConstraint",
-                "constant" : 20,
-                "model_version" : 0.1
-              },
-              "modelID" : "viewConstraints_57bd0b6a-ce97-4ec5-8858-40681b62f7fa",
-              "model_class" : "ADModelViewConstraints",
-              "automatic" : 1
-            }
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "215B2C4E-010A-45CD-8DAE-3B348B0D58BD",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "icons\/share",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"constraints" : {
+"scaleFactor" : 1,
+"model_version" : 0.1,
+"aspectRatio" : {
+"model_version" : 0.1,
+"enabled" : 1,
+"multiplier" : 155.5556,
+"modelID" : "constraint_86bb358a-3c8c-4a42-97e4-97a2b53080f4",
+"model_class" : "ADModelConstraint",
+"constant" : 20
+},
+"modelID" : "viewConstraints_57bd0b6a-ce97-4ec5-8858-40681b62f7fa",
+"model_class" : "ADModelViewConstraints",
+"automatic" : 1
+}
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
 
-      ]
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "8AD70F40-934D-421F-8C2A-E08623CC3926",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 60,
-        "do_objectID" : "868EC331-5313-4CCE-80B1-9EC7323F0CFC",
-        "constrainProportions" : false,
-        "x" : 1235,
-        "width" : 60,
-        "y" : 154
-      },
-      "do_objectID" : "EA169378-330B-498B-8E6A-DE250B2D66FB",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "C64BC563-2371-48F9-8788-8726AA36365E",
-        "includedLayerIds" : [
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "8AD70F40-934D-421F-8C2A-E08623CC3926",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 60,
+"do_objectID" : "868EC331-5313-4CCE-80B1-9EC7323F0CFC",
+"constrainProportions" : false,
+"x" : 1235,
+"width" : 60,
+"y" : 154
+},
+"do_objectID" : "EA169378-330B-498B-8E6A-DE250B2D66FB",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "C64BC563-2371-48F9-8788-8726AA36365E",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "1726FA37-5A66-4C5A-BB72-6B5668D84D51",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Icon\/Audio\/Default",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "1726FA37-5A66-4C5A-BB72-6B5668D84D51",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Icon\/Audio\/Default",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
 
-      ]
-    },
-    {
-      "isFlippedHorizontal" : false,
-      "verticalSpacing" : 0,
-      "style" : {
-        "windingRule" : 1,
-        "do_objectID" : "2D79488E-A4B7-4104-BE85-DC091F6F6BB4",
-        "_class" : "style",
-        "miterLimit" : 10,
-        "startMarkerType" : 0,
-        "endMarkerType" : 0
-      },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 60,
-        "do_objectID" : "59F21447-22E5-434A-9586-3818BCFF1363",
-        "constrainProportions" : false,
-        "x" : 1305,
-        "width" : 60,
-        "y" : 154
-      },
-      "do_objectID" : "54E76F09-09CE-4D42-8655-638674D842D8",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "shouldTrim" : false,
-        "do_objectID" : "05FD25ED-3FC5-4BCC-8B2F-9EF5ADB60137",
-        "includedLayerIds" : [
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"endMarkerType" : 0,
+"do_objectID" : "2D79488E-A4B7-4104-BE85-DC091F6F6BB4",
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 60,
+"do_objectID" : "59F21447-22E5-434A-9586-3818BCFF1363",
+"constrainProportions" : false,
+"x" : 1305,
+"width" : 60,
+"y" : 154
+},
+"do_objectID" : "54E76F09-09CE-4D42-8655-638674D842D8",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"exportFormats" : [
 
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "exportFormats" : [
+],
+"do_objectID" : "05FD25ED-3FC5-4BCC-8B2F-9EF5ADB60137",
+"includedLayerIds" : [
 
-        ]
-      },
-      "symbolID" : "E4A3CC1E-A96F-4961-A16C-670E3D760FA9",
-      "isFlippedVertical" : false,
-      "nameIsFixed" : false,
-      "name" : "Icon\/Audio\/Default Copy",
-      "isVisible" : true,
-      "resizingType" : 0,
-      "userInfo" : {
-        "com.animaapp.stc-sketch-plugin" : {
-          "kModelPropertiesKey" : {
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
+},
+"symbolID" : "E4A3CC1E-A96F-4961-A16C-670E3D760FA9",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Icon\/Audio\/Default Copy",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
 
-          }
-        }
-      },
-      "horizontalSpacing" : 0,
-      "isLocked" : false,
-      "scale" : 1,
-      "shouldBreakMaskChain" : false,
-      "isFixedToViewport" : false,
-      "_class" : "symbolInstance",
-      "booleanOperation" : 0,
-      "resizingConstraint" : 63,
-      "overrideValues" : [
+}
+}
+},
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : 0,
+"resizingConstraint" : 63,
+"overrideValues" : [
 
-      ]
-    }
-  ],
-  "isLocked" : false,
-  "shouldBreakMaskChain" : false,
-  "isFixedToViewport" : false,
-  "_class" : "page",
-  "booleanOperation" : 0,
-  "resizingConstraint" : 63
+]
+}
+],
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "page",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
 }
